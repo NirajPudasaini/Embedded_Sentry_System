@@ -43,4 +43,9 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code as per the terms of
+This project is licensed under the MIT License. You are free to modify and distribute the code as per the terms of the MIT License.
+
+MIT License
+
+Copyright (c) 2023 [Niraj Pudasaini]
+
